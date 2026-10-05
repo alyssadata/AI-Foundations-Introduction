@@ -1,5 +1,11 @@
 # Introduction to AI Foundations
 
+## Mission
+
+> **To understand the trajectory of intelligent existence.**
+
+The mission is program-level. It establishes the broad direction of inquiry without pre-committing the framework to a particular endpoint. In particular, singularity remains a research horizon and open question rather than an assumed destination.
+
 AI Foundations seeks to bind independently recoverable truths about human–AI systems into a compact formal framework of defined constructs, relations, and testable propositions.
 
 The framework does not begin by defining something and then treating the definition as proof that the underlying relation exists. Its intended direction is:
